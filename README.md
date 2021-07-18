@@ -1,4 +1,4 @@
-# MSSC Congig Server
+# MSSC Config Server
 
 Spring Boot Cofig Server Example
 
